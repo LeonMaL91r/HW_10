@@ -1,0 +1,97 @@
+    1  cd
+    2  git.cd
+    3  man
+    4  man ls
+    5  help ls
+    6  man LS
+    7  manls
+    8  man ls
+    9  help ls
+   10  man -k ls
+   11  clear
+   12  ls
+   13  clear
+   14  man - ls
+   15  clear
+   16  ls
+   17  cd ehjr/
+   18  clear
+   19  clear
+   20  cd /
+   21  ls
+   22  clear
+   23  cd репозиторий
+   24  clear
+   25  cd Репозитории
+   26  clear
+   27  CLEAR
+   28  cd Репозитории
+   29  clear
+   30  cd Repozitoriy
+   31  cd Repozitoriy
+   32  ls
+   33  cd Task/
+   34  clear
+   35  touch file1.txt
+   36  vim file1.txt
+   37  ping google.com
+   38  cd ~
+   39  clear
+   40  system_profiler
+   41  system-profiler
+   42  clear
+   43  systeminfo
+   44  clear
+   45  whoime
+   46  clear
+   47  whoami
+   48  cd ~
+   49  cd LeonGIT
+   50  cd ~ LeonGIT
+   51  ~/LeonGIT
+   52  [200~ 
+   53  [200~ 
+   54  clear
+   55  git config --global user.name "Leon Mal91r"
+   56  git config --global user.email lexusasunov@gmail.com
+   57  git clone https://github.com/LeonMaL91r/HW_10.git
+   58  cd HW_10
+   59  touch new text_ignore.txt
+   60  mv text_ignore.txt /path/to/.gitignore/
+   61  cd .gitignore
+   62  text_ignore.txt/.gitignore/
+   63  echo "text_ignore.txt >> .gitignore
+cat .gitignore
+
+
+clear
+   64  echo "text_ignore.txt" >> .gitignore
+   65  cat .gitignore
+   66  git status
+   67  git add
+   68  git status
+   69  git add text_ignore.txt
+   70  git status
+   71  git coomit -m ".gitignore-added file text_ignore.txt"
+   72  git status
+   73  git add .gitignore
+   74  git status
+   75  git coomit -m ".gitignore-added file text_ignore.txt"
+   76  git status
+   77  touch main_test.txt
+   78  git add main_test.txt
+   79  git coomit -m "new file main_test.txt"
+   80  git checkout -b develop
+   81  touch develop_test.txt
+   82  git add develop_test.txt
+   83  git coomit -m "new file develop_test.txt"
+   84  git status
+   85  echo "winner Leon" >> develop_test.txt
+   86  git status
+   87  git add develop_test.txt
+   88  git coomit -m "new text develop_test.txt"
+   89  git status
+   90  git checkout main
+   91  git merge develop
+   92  git log --oneline
+   93  history > command_list.csv
